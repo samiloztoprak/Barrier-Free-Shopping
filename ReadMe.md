@@ -11,5 +11,5 @@ Engelsiz Alışveriş Arabası dünyada yaşayan binlerce tekerlekli sandalye ku
 ### Model
 <img src="https://github.com/samiloztoprak/Barrier-Free-Shopping/blob/master/Proje%20Resimleri/Model.png?raw=true" alt="drawing" width="200"/>
 
-### Prototype
+### Prototip
 <img src="https://github.com/samiloztoprak/Barrier-Free-Shopping/blob/master/Proje%20Resimleri/Prototype.jpg?raw=true" alt="drawing" width="200"/>
