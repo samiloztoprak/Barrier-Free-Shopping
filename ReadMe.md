@@ -10,3 +10,8 @@ Engelsiz Alışveriş Arabası dünyada yaşayan binlerce tekerlekli sandalye ku
 - Tekerlekli sandalye kullanan bireylerin alışveriş merkezlerinde alışveriş yaparken alışveriş sepetlerini kullanamamalarından kaynaklanan sorunu çözmek için yapılmış projedir.
 - Tekerlekli sandalye kullananların hem sandalyeyi hem alışveriş sepetini aynı anda kullanamamaları dolayısıyla başkalarına ihtiyaç duymalarını en aza indirgemek için yapılmıştır.
 
+### Model
+![alt text](https://github.com/samiloztoprak/Barrier-Free-Shopping/blob/master/Proje%20Resimleri/Model.png?raw=true)
+
+### Prototype
+![alt text](https://github.com/samiloztoprak/Barrier-Free-Shopping/blob/master/Proje%20Resimleri/Prototype.jpg?raw=true)
