@@ -1,5 +1,8 @@
 # Barrier-Free Shopping
 
+### Project Summary
+Barrier-Free Shopping, The world have a a lot of people use wheelchair, this people life is more easy with this project. If you use a whellchair and shopping cart you are need to this project. Because you are not used whellchair and shopping cart at the same time.
+
 ### Proje Özeti 
 Engelsiz Alışveriş Arabası dünyada yaşayan binlerce tekerlekli sandalye kullanıcısının hayatını kolaylaştırmak amacıyla yapılmıştır. Engelsiz Alışveriş Arabası engelli olup hayatlarına tek başına devam edenler için kolaylık sağlamak amacıyla yapılmıştır. Engelli bireylerin marketlerde hem tekerlekli sandalyeyi hem de market arabasını kullanamama sorunlarından doğup onların işini kolaylaştırmak için tasarlanıp engellinin sadece tekerlekli sandalyeyle ilerlemesi ve market arabasının onu takip etmesi esasına dayanır.
 
